@@ -16,11 +16,17 @@ Step 3: Install all the necessary libraries. I used Windows for this project. Th
 
 
 pip install opencv-python(Latest Version Required)
+
 pip install opencv-contrib-python
+
 pip install opencv-python-headless
+
 pip install opencv-contrib-python-headless
+
 pip install matplotlib
+
 pip install imutils
+
 Make sure to download and install opencv and and opencv-contrib releases for OpenCV 3.3. This ensures that the deep neural network (dnn) module is installed. You must have OpenCV 3.3 (or newer) to run this code.
 
 Step 4: Make sure you have your video devices connected (e.g. Webcam, FaceTime HD Camera, etc.). You can list them by typing this in your terminal
